@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Mission1",
+			"path": "../Mission1"
+		},
+		{
+			"name": "Mission2",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
